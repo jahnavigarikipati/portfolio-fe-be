@@ -6,7 +6,7 @@ function Navbar(){
       <div className="container my-2">
         
         <Link to="/" className="nav-item nav-link text-dark h4 font-weight-bold">
-          NAME
+          GARIKIPATI JAHNAVI
         </Link>
 
         <Link to="/contact" className="ml-auto mx-3">
