@@ -9,7 +9,7 @@ import About from "./About";
 function HomePage() {
     return(
         <div>
-            <Title name="Potnuru Hema Manasi" leadText="I am a freelancer developer"/>
+            <Title name="Garikipati Jahnavi" leadText="I am a enthusiastic learner"/>
             <RecommendationSection />
             <SkillSection />
             <Project />
